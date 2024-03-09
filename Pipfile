@@ -4,8 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-chromadb = "*"
 datasets = "*"
+langchain-community = "*"
+faiss-cpu = "*"
+tiktoken = "*"
+sentence-transformers = "*"
+chromadb = "==0.4.23"
 
 [dev-packages]
 
