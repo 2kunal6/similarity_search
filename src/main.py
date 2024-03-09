@@ -1,10 +1,8 @@
-from vectordb import insert_data
+import chromadb
 
+path = '/home/kunal/Documents/study/projects/resources/chromadb'
+client = chromadb.PersistentClient(path=path)
 
-def main():
-    text_file = open("resources/data.txt", "r")
-    lines = text_file.readlines()
-    insert_data(lines)
+collection = client.get_collection(name="my_collection")
 
-if __name__ == '__main__':
-    main()
+print(collection.get())
