@@ -1,0 +1,12 @@
+Parse a smart search query for prefixes This is a helper function to smart_search_prefix for easier unit testing of the parser.
+
+Parsing a smart search query for prefixes. This function aids in testing the parser more conveniently when used with smart_search_prefix.
+Smart search query parsing for prefixes. This function serves as a helper for facilitating unit testing of the parser alongside smart_search_prefix.
+To parse a smart search query for prefixes, this function acts as a helper for simpler unit testing of the parser in conjunction with smart_search_prefix.
+The parsing of a smart search query for prefixes is assisted by this function, making unit testing of the parser easier when combined with smart_search_prefix.
+This function assists in parsing a smart search query for prefixes, particularly for the purpose of simplifying unit testing of the parser alongside smart_search_prefix.
+Assisting in parsing a smart search query for prefixes, this function is designed to aid in the unit testing of the parser, especially when paired with smart_search_prefix.
+The purpose of this function is to parse a smart search query for prefixes, serving as a helper for easier unit testing of the parser alongside smart_search_prefix.
+Parsing of smart search queries for prefixes is made simpler with this function, which acts as a helper for unit testing the parser in conjunction with smart_search_prefix.
+This function facilitates the parsing of smart search queries for prefixes, making it easier to conduct unit testing of the parser alongside smart_search_prefix.
+For easier unit testing of the parser alongside smart_search_prefix, this function assists in parsing smart search queries for prefixes.

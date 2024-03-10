@@ -1,0 +1,12 @@
+Generate an empty texture in OpenGL
+
+Create a blank texture within the OpenGL framework.
+Generate an uninitialized texture object in the OpenGL environment.
+Produce an empty texture buffer within the OpenGL context.
+Initialize a texture object with no data in the OpenGL graphics library.
+Construct an empty texture resource within the OpenGL rendering pipeline.
+Instantiate a texture with no content in the OpenGL framework.
+Formulate a texture object devoid of data within the OpenGL context.
+Establish an uninitialized texture in the OpenGL rendering system.
+Instantiate an empty texture buffer within the OpenGL graphics pipeline.
+Create a texture with no pixel data in the OpenGL graphics framework.

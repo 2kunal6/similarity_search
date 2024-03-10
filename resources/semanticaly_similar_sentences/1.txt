@@ -1,12 +1,12 @@
-Puts the two whole widgets in the correct position depending on compound.
+Add a new VRF. Valid keys in the `args`-struct: * `auth` [struct] Authentication options passed to the :class:`AuthFactory`. * `attr` [struct] VRF attributes. Returns the internal database ID for the VRF.
 
-Places both entire widgets accurately based on the compound.
-Positions the pair of complete widgets appropriately according to the compound.
-Arranges the two full widgets correctly depending on the compound.
-Sets the position of both complete widgets according to the compound.
-Adjusts the placement of the two whole widgets based on the compound.
-Determines the correct position for both entire widgets relative to the compound.
-Aligns the pair of complete widgets accurately depending on the compound.
-Ensures that both entire widgets are positioned correctly based on the compound.
-Places the two complete widgets in the appropriate position relative to the compound.
-Positions both whole widgets accurately according to the compound.
+Create a fresh VRF instance. Accepted parameters in the args structure include: * auth [structure] Authentication configurations forwarded to the :class:AuthFactory. * attr [structure] Attributes specific to the VRF. Provides the unique database identifier for the newly added VRF.
+Instantiate a new VRF. Supported fields within the args structure: * auth [object] Authentication configurations sent to the :class:AuthFactory. * attr [object] VRF properties. Furnishes the internal database ID associated with the VRF upon addition.
+Establish a VRF entry. Recognized properties within the args structure: * auth [object] Authentication parameters transmitted to the :class:AuthFactory. * attr [object] VRF characteristics. Retrieves the internal database ID assigned to the newly created VRF.
+Append a fresh VRF. Allowed fields in the args structure: * auth [object] Authentication settings forwarded to the :class:AuthFactory. * attr [object] VRF attributes. Fetches the internal database ID linked to the VRF after insertion.
+Introduce a new VRF record. Permissible keys in the args structure: * auth [object] Authentication configurations forwarded to the :class:AuthFactory. * attr [object] VRF properties. Provides the internal database ID for the newly inserted VRF.
+Register a fresh VRF entity. Accepted parameters in the args structure: * auth [object] Authentication options sent to the :class:AuthFactory. * attr [object] VRF attributes. Supplies the internal database ID corresponding to the added VRF.
+Incorporate a novel VRF instance. Supported fields within the args structure: * auth [object] Authentication settings transmitted to the :class:AuthFactory. * attr [object] VRF characteristics. Delivers the internal database ID associated with the newly appended VRF.
+Add a new VRF entry. Recognized properties in the args structure: * auth [object] Authentication parameters forwarded to the :class:AuthFactory. * attr [object] VRF attributes. Returns the internal database ID assigned to the newly added VRF.
+Create a fresh VRF record. Allowed keys in the args structure: * auth [object] Authentication configurations sent to the :class:AuthFactory. * attr [object] VRF properties. Retrieves the internal database ID for the newly created VRF.
+Instantiate a new VRF entity. Permissible parameters in the args structure: * auth [object] Authentication options forwarded to the :class:AuthFactory. * attr [object] VRF attributes. Fetches the internal database ID associated with the added VRF.

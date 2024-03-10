@@ -1,0 +1,12 @@
+Get a list of those command line arguments specified with the management command that are meant as arguments for running behave.
+
+Retrieve a list of command line arguments intended for running behave, as specified within the management command.
+Obtain a collection of command line arguments from the management command, designated for use when executing behave.
+Fetch the command line arguments specified within the management command, which are designated for behave execution.
+Acquire a list containing command line arguments from the management command, intended for usage during behave execution.
+Access a list of command line arguments specified within the management command, intended for use when running behave.
+Obtain the command line arguments specified within the management command, to be utilized during the execution of behave.
+Retrieve a list of command line arguments from the management command, intended to be utilized when executing behave.
+Access the command line arguments designated within the management command, meant for use during behave execution.
+Fetch a list of command line arguments specified within the management command, intended for usage with behave.
+Obtain the command line arguments specified within the management command, which are intended for use during behave execution.
