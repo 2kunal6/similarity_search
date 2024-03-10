@@ -1,8 +1,8 @@
-import chromadb
+from faiss_search import FAISSindex
+from vectordb_search import Chroma_DB
 
-path = '/home/kunal/Documents/study/projects/resources/chromadb'
-client = chromadb.PersistentClient(path=path)
+faiss_search = FAISSindex()
+chroma_db = Chroma_DB()
 
-collection = client.get_collection(name="my_collection")
-
-print(collection.get())
+print(faiss_search.search_similar_docs('dummy'))
+print(chroma_db.search_similar_docs('dummy'))
