@@ -1,5 +1,11 @@
 # similarity_search
 
+
+### Similarity Search tools used here
+- ChromaDb which is a Vectordb
+- FAISS Index Library
+
+
 ### Run Instructions
 - Install Pipenv: https://github.com/2kunal6/util/blob/main/installations.txt
 - python3 -m pipenv shell
