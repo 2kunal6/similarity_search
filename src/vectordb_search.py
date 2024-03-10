@@ -10,5 +10,5 @@ class Chroma_DB:
             cls.collection = cls.client.get_collection(name="my_collection")
         return cls._instance
 
-    def search_similar_docs(self, q):
-        return self.collection.query(query_texts=[q], n_results=2)
+    def search_similar_docs(self, q, n_results):
+        return self.collection.query(query_texts=[q], n_results=n_results)

@@ -8,11 +8,10 @@ class FAISSindex:
     def __new__(cls, *args, **kwargs):
         if cls._instance is None:
             cls._instance = super().__new__(cls)
-            cls.loader = TextLoader("resources/data.txt")
-            cls.documents = cls.loader.load()
-            cls.db = FAISS.from_documents(cls.documents, HuggingFaceEmbeddings())
+            cls.db = FAISS.load_local('/home/kunal/Documents/study/projects/resources/faiss_index', HuggingFaceEmbeddings(),
+                                      allow_dangerous_deserialization=True)
 
         return cls._instance
 
-    def search_similar_docs(self, query):
-        return self.db.similarity_search(query)
+    def search_similar_docs(self, query, n_results):
+        return self.db.similarity_search(query, n_results)
